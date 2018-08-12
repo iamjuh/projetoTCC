@@ -1,0 +1,101 @@
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\bin\Debug\LojaTCC.exe
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\bin\Debug\LojaTCC.pdb
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Form1.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Properties.Resources.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csproj.GenerateResource.Cache
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.exe
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.pdb
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Cliente.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Menu.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarCliente.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csprojResolveAssemblyReference.cache
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Categoria.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarCategoria.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormProdutos.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormPesquisarproduto.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Fornecedor.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Venda.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FecharVenda.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarFornecedor.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Funcionario.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisaFuncionario.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.aplash.resources
+C:\Users\juliana\Documents\Loja TCC\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Clientebalcao.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.exe
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.pdb
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\bin\Debug\LojaTCC.exe
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\bin\Debug\LojaTCC.pdb
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csprojResolveAssemblyReference.cache
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.UIAutomationClient.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csproj.ResolveComReference.cache
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.aplash.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Categoria.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Cliente.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FecharVenda.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Form1.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Funcionario.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormPesquisarproduto.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormProdutos.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Fornecedor.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Menu.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisaFuncionario.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarCliente.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarFornecedor.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Properties.Resources.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Venda.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csproj.GenerateResource.Cache
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.CadLogin.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Menu2.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Marca.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.cadastros.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Pesquisar.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.relatoriodevendas.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormWeb.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarLogin.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.DexterLib.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HPDeviceDetection2Lib.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HPeDiagLib.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HpUpdateComponentLib.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.PrintUIObjLib.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.VBA.dll
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FaleconoscoWeb.resources
+C:\Users\juliana\Documents\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.EnviarEmail.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.DexterLib.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HPDeviceDetection2Lib.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HPeDiagLib.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.HpUpdateComponentLib.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.PrintUIObjLib.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.UIAutomationClient.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\Interop.VBA.dll
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csproj.ResolveComReference.cache
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.exe
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.pdb
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\bin\Debug\LojaTCC.exe
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\bin\Debug\LojaTCC.pdb
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csprojResolveAssemblyReference.cache
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.aplash.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.cadastros.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.CadLogin.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Categoria.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Cliente.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.EnviarEmail.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FaleconoscoWeb.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FecharVenda.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Form1.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Funcionario.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormPesquisarproduto.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormProdutos.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.FormWeb.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Fornecedor.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Marca.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Menu.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Menu2.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisaFuncionario.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Pesquisar.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarCliente.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarFornecedor.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.PesquisarLogin.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Properties.Resources.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.relatoriodevendas.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.Venda.resources
+C:\Users\juliana\Desktop\Loja TCC - Copia\LojaTCC\LojaTCC\obj\x86\Debug\LojaTCC.csproj.GenerateResource.Cache

@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8264537D-7DA5-4C1F-BE73-A53152B81F33}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LojaTCC</RootNamespace>
+    <AssemblyName>LojaTCC</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Oracle.DataAccess, Version=2.121.1.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aplash.Designer.cs">
+      <DependentUpon>aplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cadastros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cadastros.Designer.cs">
+      <DependentUpon>cadastros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadLogin.Designer.cs">
+      <DependentUpon>CadLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria.Designer.cs">
+      <DependentUpon>Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clfuncionario.cs" />
+    <Compile Include="Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente.Designer.cs">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clnabrirvenda.cs" />
+    <Compile Include="clnBancodeDados.cs" />
+    <Compile Include="Clnbuscaproduto.cs" />
+    <Compile Include="Clncategoria.cs" />
+    <Compile Include="clnCEP.cs" />
+    <Compile Include="Clncliente.cs" />
+    <Compile Include="Clncpf.cs" />
+    <Compile Include="Clnfecharvenda.cs" />
+    <Compile Include="ClnFornecedor.cs" />
+    <Compile Include="clnFuncoesGerais.cs" />
+    <Compile Include="ClnImprimirDocumento.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Clninserirproduto.cs" />
+    <Compile Include="clnLogin.cs" />
+    <Compile Include="Clnmarca.cs" />
+    <Compile Include="clnProduto.cs" />
+    <Compile Include="Clnvenda.cs" />
+    <Compile Include="Clnweb.cs" />
+    <Compile Include="EnviarEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnviarEmail.Designer.cs">
+      <DependentUpon>EnviarEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaleconoscoWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaleconoscoWeb.Designer.cs">
+      <DependentUpon>FaleconoscoWeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FecharVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FecharVenda.Designer.cs">
+      <DependentUpon>FecharVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPesquisarproduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPesquisarproduto.Designer.cs">
+      <DependentUpon>FormPesquisarproduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProdutos.Designer.cs">
+      <DependentUpon>FormProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormWeb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormWeb.Designer.cs">
+      <DependentUpon>FormWeb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fornecedor.Designer.cs">
+      <DependentUpon>Fornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Marca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Marca.Designer.cs">
+      <DependentUpon>Marca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu2.Designer.cs">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisaFuncionario.Designer.cs">
+      <DependentUpon>PesquisaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pesquisar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pesquisar.Designer.cs">
+      <DependentUpon>Pesquisar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarCliente.Designer.cs">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarFornecedor.Designer.cs">
+      <DependentUpon>PesquisarFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PesquisarLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PesquisarLogin.Designer.cs">
+      <DependentUpon>PesquisarLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="relatoriodevendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="relatoriodevendas.Designer.cs">
+      <DependentUpon>relatoriodevendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Validacoes.cs" />
+    <Compile Include="Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venda.Designer.cs">
+      <DependentUpon>Venda.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="aplash.resx">
+      <DependentUpon>aplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cadastros.resx">
+      <DependentUpon>cadastros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadLogin.resx">
+      <DependentUpon>CadLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria.resx">
+      <DependentUpon>Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente.resx">
+      <DependentUpon>Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnviarEmail.resx">
+      <DependentUpon>EnviarEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaleconoscoWeb.resx">
+      <DependentUpon>FaleconoscoWeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FecharVenda.resx">
+      <DependentUpon>FecharVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPesquisarproduto.resx">
+      <DependentUpon>FormPesquisarproduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProdutos.resx">
+      <DependentUpon>FormProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormWeb.resx">
+      <DependentUpon>FormWeb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fornecedor.resx">
+      <DependentUpon>Fornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Marca.resx">
+      <DependentUpon>Marca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu2.resx">
+      <DependentUpon>Menu2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisaFuncionario.resx">
+      <DependentUpon>PesquisaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pesquisar.resx">
+      <DependentUpon>Pesquisar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarCliente.resx">
+      <DependentUpon>PesquisarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarFornecedor.resx">
+      <DependentUpon>PesquisarFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PesquisarLogin.resx">
+      <DependentUpon>PesquisarLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="relatoriodevendas.resx">
+      <DependentUpon>relatoriodevendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venda.resx">
+      <DependentUpon>Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="DexterLib">
+      <Guid>{78530B68-61F9-11D2-8CAD-00A024580902}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="HPDeviceDetection2Lib">
+      <Guid>{E2615C76-7740-41AE-ADF9-BA1FF0AC2D11}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="HPeDiagLib">
+      <Guid>{DF5AB36C-9673-46F6-9E7D-37B3BCBFC0D2}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="HpUpdateComponentLib">
+      <Guid>{C6B40AB5-3D17-45FF-B572-A1D18C19C16D}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="PrintUIObjLib">
+      <Guid>{438EDB38-282C-435D-8BE3-4AB90B83CEF5}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="UIAutomationClient">
+      <Guid>{944DE083-8FB8-45CF-BCB7-C477ACB2F897}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBA">
+      <Guid>{000204EF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>9</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
